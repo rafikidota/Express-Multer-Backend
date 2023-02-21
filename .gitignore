@@ -1,0 +1,15 @@
+
+# Compiled output
+dist
+
+# Node
+node_modules
+
+#yarn
+yarn.lock
+
+#extras
+files
+
+#env
+.env
